@@ -23,7 +23,7 @@ class Permutation {
                     res += str.charAt(inx);
                }
             if (!res.equals(""))
-                System.out.println(in++ + "  " + res);
+                System.out.println(in++ + "   " + res);
          }
 
         //Object[] arr = new Object[3];
